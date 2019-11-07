@@ -1,0 +1,14 @@
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WebApplication2.dll
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WebApplication2.pdb
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\bin\Debug\WebApplication2.dll.config
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\thinh\source\repos\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
